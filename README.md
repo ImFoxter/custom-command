@@ -1,3 +1,13 @@
+### Command usage.
+```dradle
+dependencies {
+        implementation "org.reflections:reflections:0.10.2"
+}
+```
+## Reguster command.
+Replace ``".command"`` with your location where classes with commands are located.
+
+
 ```java
 private void registerCommands() {
         int amount = 0;
