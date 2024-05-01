@@ -1,10 +1,10 @@
-### Gradle dependency.
+## Gradle dependency.
 ```dradle
 dependencies {
         implementation "org.reflections:reflections:0.10.2"
 }
 ```
-## Reguster command.
+## Register command.
 Replace ``".command"`` with your location where classes with commands are located.
 
 
@@ -31,3 +31,7 @@ private void registerCommands() {
         } this.getSLF4JLogger().info("Successfully loaded {} commands.", amount);
     }
 ```
+## Example command.
+![EXAMPLE](https://github.com/ImFoxter/CustomCommand-clear-command)
+
+
