@@ -32,4 +32,4 @@ private void registerCommands() {
     }
 ```
 ## Example command.
-https://github.com/ImFoxter/CustomCommand-clear-command
+- https://github.com/ImFoxter/CustomCommand-clear-command
